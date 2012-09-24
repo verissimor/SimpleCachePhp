@@ -12,3 +12,5 @@ This is a regular paragraph.
 </table>
 
 This is another regular paragraph.
+
+http://daringfireball.net/projects/markdown/syntax#html
